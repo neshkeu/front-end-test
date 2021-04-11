@@ -1,2 +1,2 @@
 yarn/npm install
-bootstrap install
+yarn/npm start
